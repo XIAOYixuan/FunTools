@@ -1,0 +1,28 @@
+[1] M. Aubry, D. Maturana, A. Efros, B. Russell, and J. Sivic.Seeing 3D Chairs: Exemplar Part-Based 2D-3D alignementUsing a Large Dataset of CAD Models. In Conference onComputer Vision and Pattern Recognition, 2014.
+[2] A. Bakry and A. Elgammal. Untangling Object-View Manifold for Multiview Recognition and Pose Estimation. In European Conference on Computer Vision, 2014.
+[4] E. Brachmann, A. Krull, F. Michel, S. Gumhold, J. Shotton,and C. Rother. Learning 6D Object Pose Estimation using3D Object Coordinates. In European Conference on Computer Vision, 2014.
+[5] M. Brown, G. Hua, and S. Winder. Discriminative Learningof Local Image Descriptors. IEEE Transactions on PatternAnalysis and Machine Intelligence, 2011.
+[6] S. Chopra, R. Hadsell, and Y. LeCun. Learning a SimilarityMetric Discriminatively, with Application to Face Verification. In Conference on Computer Vision and Pattern Recognition, 2005.
+[7] N. Dalal and B. Triggs. Histograms of Oriented Gradientsfor Human Detection. In Conference on Computer Visionand Pattern Recognition, 2005.
+[8] T. Dean, J. Yagnik, M. Ruzon, M. Segal, J. Shlens, and S. Vijayanarasimhan. Fast, Accurate Detection of 100,000 ObjectClasses on a Single Machine. In Conference on ComputerVision and Pattern Recognition, 2013.
+[9] S. Divvala, A. Efros, and M. Hebert. How Important Are’Deformable Parts’ in the Deformable Parts Model? InECCV, Parts and Attributes Workshop, 2012.
+[10] Y. Gong, S. Lazebnik, A. Gordo, and F. Perronnin. IterativeQuantization: A Procrustean Approach to Learning BinaryCodes for Large-Scale Image Retrieval. IEEE Transactionson Pattern Analysis and Machine Intelligence, 2012.
+[11] C. Gu and X. Ren. Discriminative Mixture-of-Templates forViewpoint Classification. In European Conference on Computer Vision, 2010.
+[12] R. Hadsell, S. Chopra, and Y. LeCun. Dimensionality Reduction by Learning an Invariant Mapping. In Conferenceon Computer Vision and Pattern Recognition, 2006.
+[13] S. Hinterstoisser, C. Cagniart, S. Ilic, P. Sturm, N. Navab,P. Fua, and V. Lepetit. Gradient Response Maps for RealTime Detection of Textureless Objects. IEEE Transactionson Pattern Analysis and Machine Intelligence, 34(5):876–888, May 2012.
+[14] S. Hinterstoisser, V. Lepetit, S. Ilic, S. Holzer, G. Bradski,K. Konolige, and N. Navab. Model Based Training, Detection and Pose Estimation of Texture-Less 3D Objects inHeavily Cluttered Scenes. In Asian Conference on ComputerVision, 2012.
+[15] D. Hoiem and S. Savarese. Representations and Techniquesfor 3D Object Recognition and Scene Interpretation. MorganClaypool Publishers, 2011.
+[17] K. Lai, L. Bo, X. Ren, and D. Fox. A Scalable Tree-basedApproach for Joint Object and Pose Recognition. In American Association for Artificial Intelligence Conference, 2011.
+[19] T. Malisiewicz, A. Gupta, and A. Efros. Ensemble ofExemplar-SVMs for Object Detection and Beyond. In International Conference on Computer Vision, 2011.
+[20] J. Masci, D. Migliore, M. M. Bronstein, and J. Schmidhuber.Registration and Recognition in Images and Videos, chapterDescriptor Learning for Omnidirectional Image Matching.R. Cipolla et al. Eds., Springer, 2014.
+[22] S. K. Nayar, S. A. Nene, and H. Murase. Real-Time 100Object Recognition System. IEEE Transactions on Pattern Analysis and Machine Intelligence, 18(12):1186–1198,1996.
+[25] N. Payet and S. Todorovic. From Contours to 3D ObjectDetection and Pose Estimation. In International Conferenceon Computer Vision, 2011.
+[26] B. Pepik, M. Stark, P. Gehler, and B. Schiele. Teaching 3DGeometry to Deformable Part Models. In Conference onComputer Vision and Pattern Recognition, 2012.
+[27] R. Pless and R. Souvenir. A survey of manifold learning forimages. IPSJ Transactions on Computer Vision and Applications, 1:83–94, 2009.
+[28] R. Rios-Cabrera and T. Tuytelaars. Boosting Masked Dominant Orientation Templates for Efficient Object Detection.Computer Vision and Image Understanding, 120:103–116,2014.
+[29] R. Salakhutdinov and G. Hinton. Learning a NonlinearEmbedding by Preserving Class Neighbourhood Structure.In International Conference on Artificial Intelligence andStatistics, 2007.
+[30] S. Savarese and L. Fei-Fei. 3D Generic Object Categorization, Localization, and Pose Estimation. In InternationalConference on Computer Vision, 2007.
+[31] C. Strecha, A. Bronstein, M. Bronstein, and P. Fua. LDAHash: Improved Matching with Smaller Descriptors. IEEETransactions on Pattern Analysis and Machine Intelligence,34(1), January 2012.
+[33] M. Tarr and S. Pinker. Mental Rotation and OrientationDependence in Shape Recognition. Cognitive Phycology,21(2):233–282, 1 1989.
+[34] A. Tejani, D. Tang, R. Kouskouridas, and T.-K. Kim. LatentClass Hough Forests for 3D Object Detection and Pose Estimation. In European Conference on Computer Vision, 2014.
+[35] T. Trzcinski, M. Christoudias, P. Fua, and V. Lepetit. Boosting Binary Keypoint Descriptors. In Conference on Computer Vision and Pattern Recognition, June 2013.
